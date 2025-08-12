@@ -16,3 +16,7 @@ Agrega `loadInfo()` en `src/app.js` para leer `data/info.txt`.
 ### Uso
 ```bash
 node src/app.js
+
+Salida esperada:
+Hola mundo
+Contenido de info.txt: <contenido del archivo>
