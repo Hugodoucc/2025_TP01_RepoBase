@@ -27,5 +27,6 @@ if (typeof require !== 'undefined' && require.main === module) {
   console.log("Contenido de info.txt:", loadInfo());
 }
 
+
 // Export para tests o reuso
 module.exports = { saludar, loadInfo };
