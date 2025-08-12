@@ -4,4 +4,4 @@ function saludar() {
 }
 
 saludar();
-// BUG SIMULADO
+
